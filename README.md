@@ -9,7 +9,7 @@
 
 <li>
 
- <b>Name:</b> ch6vip</li>
+ <b>姓名:</b> 东风导弹</li>
 
 <li>
 
@@ -19,19 +19,13 @@
 
 <li>
 
-<b>Loves:</b> anime, osu, rhythm games
+<b>Gender:</b> 无
 
 </li>
 
 <li>
 
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
-
-</li>
-
-<li>
-
-<b>Hobbys:</b> 动漫.漫画.
+<b>喜欢:</b> 动漫.漫画.
 
 </li>
 
@@ -41,4 +35,4 @@
 
 </div>
 
-<div>的
+<div>
