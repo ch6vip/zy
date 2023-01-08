@@ -13,7 +13,7 @@
 
 <li>
 
-<b>Fursona:</b> zy
+<b>国家:</b> China 🇨🇳
 
 </li>
 
