@@ -1,5 +1,5 @@
 # zy
-<h1 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h1 align="center"> 🦊 ~ 卍 ~ 🦊 </h2>
 
   <div align="center">
 
@@ -13,7 +13,7 @@
 
 <li>
 
-<b>Fursona:</b> Snow Fox
+<b>Fursona:</b> zy
 
 </li>
 
@@ -36,8 +36,6 @@
 </li>
 
 <li>
-
-<b>Working @:</b> Intave Anticheat
 
 <br><br><br>
 
