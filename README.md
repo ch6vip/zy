@@ -31,12 +31,6 @@
 
 <li>
 
-<b>Git Server</b> https://git.thicc-thighs.de
-
-</li>
-
-<li>
-
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 
 </li>
