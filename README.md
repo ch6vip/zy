@@ -9,7 +9,7 @@
 
 <li>
 
- <b>Name:</b> Sarah</li>
+ <b>Name:</b> ch6vip</li>
 
 <li>
 
@@ -31,15 +31,13 @@
 
 <li>
 
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> 动漫.漫画.
 
 </li>
 
 <li>
 
 <b>Working @:</b> Intave Anticheat
-
-</li>
 
 <br><br><br>
 
